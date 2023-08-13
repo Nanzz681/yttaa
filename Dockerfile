@@ -10,7 +10,7 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN pkg update && pkg upgrade && pkg install ffmpeg && pkg install imagemegick && npm install 
+RUN ffmpeg && imagemegick && npm install 
 
 COPY . .
 
