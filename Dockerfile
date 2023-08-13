@@ -10,7 +10,7 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN apt-get ffmpeg -y && apt-get imagemegick -y && npm install 
+RUN yarn install && yarn && npm install 
 
 COPY . .
 
