@@ -24,7 +24,7 @@ global.ownername = 'Nanzz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 global.owner = ['6282140059454'] // ubah aja pake nomor lu
 //==========================BY Hw Mods=======================//
-global.keyopenai = `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`
+global.keyopenai = `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`
 //====================BY Hw Mods=============================//
 global.botname = 'Nanzzbot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = 'ㅤ' // ubah aja ini nama sticker
